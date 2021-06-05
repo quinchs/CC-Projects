@@ -32,7 +32,7 @@ local optionsFile = "filters.json"
 
 You can specify the filter and configuration for the digital miner in the `filter.json` file.
 
-```json
+```jsonc
 {
     "silkTouch": true, // whether or not to use silk touch
     "radius": 32, // The radius for the digital miner
