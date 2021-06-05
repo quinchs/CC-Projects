@@ -1,0 +1,14 @@
+{
+    "silkTouch": true,
+    "radius": 32,
+    "minY": 0,
+    "maxY": 100,
+    "filters": [
+        {
+            "replaceItem": "minecraft:air",
+            "requireReplace": false,
+            "tag": "forge:ores",
+            "type": "MINER_TAG_FILTER"
+        }
+    ]
+}
