@@ -476,5 +476,6 @@ exports.formatEnergy = formatEnergy
 exports.getHeatedCoolantName = getHeatedCoolantName
 exports.getCoolantName = getCoolantName
 exports.writeNormalCenterText = writeNormalCenterText
+exports.writeRightText = writeRightText
 
 return exports
